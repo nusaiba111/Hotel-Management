@@ -1,0 +1,28 @@
+body{
+	margin-left: 0;
+	padding: 0%;
+	align-items: center;
+	background-image: linear-gradient(90deg,rgb(183, 231, 237,0.85),rgba(173, 156, 230,0.8));
+}
+.book{
+	background-image: linear-gradient(90deg,rgb(180, 139, 201,0.85),rgba(167, 202, 242,0.8));
+	margin-top: 2%;
+	box-shadow: 1rem 0.5rem 1rem;
+	margin-left: 35%;
+	width: 400px;
+	padding-right: 0%;
+	text-align: left;
+	border-radius: 10%;
+}
+.b1{
+	text-align: center;
+	
+}
+.b2{
+	margin-left: 40%;
+}
+.b3{
+	margin-bottom: 5%;
+	padding: 10%;
+	margin-left: -5%;
+}
